@@ -1,10 +1,13 @@
-<h1>📄 AuditAI — AI-Powered External Auditor</h1>
+<div align="center">
+    <h1>📄 AuditAI — AI-Powered External Auditor</h1>
+    <p><strong>Senior Capstone Project (CPCS499) at King Abdulaziz University</strong></p>
+</div>
 
 <blockquote>
 <p>Intelligent financial auditing system automating reconciliation, anomaly detection, and OCR invoice validation for enterprise-level audit operations.</p>
 </blockquote>
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Status-Complete-brightgreen" alt="Status">
 <img src="https://img.shields.io/badge/Python-3.10-blue" alt="Python">
 <img src="https://img.shields.io/badge/KAU-Capstone_Project-success" alt="KAU">
