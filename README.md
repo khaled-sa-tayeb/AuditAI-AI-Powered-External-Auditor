@@ -4,7 +4,7 @@
 </div>
 
 <blockquote>
-<p>Intelligent financial auditing system automating reconciliation, anomaly detection, and OCR invoice validation for enterprise-level audit operations.</p>
+<p>Intelligent financial auditing system automating reconciliation, and OCR invoice validation for enterprise-level audit operations.</p>
 </blockquote>
 
 <p align="center">
