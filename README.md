@@ -70,7 +70,7 @@
 <hr>
 
 <h2>🏗️ System Architecture</h2>
-<pre><code>Excel Files (8) + PDF Invoices (500+)
+<pre><code>Excel Files (8) + PDF Invoices (400+)
        ↓
 Data Cleaning & Column Mapping
 (Smart Column Detector — Arabic & English)
@@ -254,6 +254,21 @@ Interactive Dashboard + Excel Reports</code></pre>
 
 <hr>
 
+<h2>🖼️ Screenshots</h2>
+<p><img src="screenshots/auditai-1.webp" alt="Uploaded documents and verification pipeline" width="100%"></p>
+<table>
+<tr>
+<td><img src="screenshots/auditai-3.webp" alt="Client portfolio overview"></td>
+<td><img src="screenshots/auditai-4.webp" alt="Client workspace and audit actions"></td>
+</tr>
+<tr>
+<td><img src="screenshots/auditai-5.webp" alt="Company profile and tax settings"></td>
+<td><img src="screenshots/auditai-2.webp" alt="Sign-in page"></td>
+</tr>
+</table>
+
+<hr>
+
 <h2>💻 Web Application Features</h2>
 <ul>
     <li><strong>Authentication</strong> — Email/password & Google OAuth via Supabase</li>
@@ -274,28 +289,11 @@ Interactive Dashboard + Excel Reports</code></pre>
 <hr>
 
 <h2>👥 Team</h2>
-<table>
-    <thead>
-        <tr>
-            <th>ID</th>
-            <th>Name</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>2244530</td>
-            <td>Madyan Mohammed Alammari</td>
-        </tr>
-        <tr>
-            <td>2245434</td>
-            <td>Yahya Salah Alwathi</td>
-        </tr>
-        <tr>
-            <td>2244524</td>
-            <td>Khaled Salem Tayeb</td>
-        </tr>
-    </tbody>
-</table>
+<ul>
+    <li>Madyan Mohammed Alammari</li>
+    <li>Yahya Salah Alwathi</li>
+    <li>Khaled Salem Tayeb</li>
+</ul>
 <p>
     <strong>Supervisor:</strong> Dr. Asaad Ahmed<br>
     <strong>Course:</strong> CPCS499 — Senior Project<br>
